@@ -1,0 +1,9 @@
+{
+  "updated": "2026-11-11",
+  "apps": [
+    { "pkg": "jp.personal.watchrecorder", "name": "クイック録音", "fold": { "name": "2.2", "code": 13 }, "watch": { "name": "2.2", "code": 13 }, "note": "" },
+    { "pkg": "jp.personal.stationalarm", "name": "降りる駅アラーム", "fold": { "name": "2.5", "code": 14 }, "watch": { "name": "1.4", "code": 5 }, "note": "" },
+    { "pkg": "jp.personal.cardholder", "name": "名刺ホルダー", "fold": { "name": "1.5", "code": 6 }, "watch": null, "note": "" },
+    { "pkg": "jp.yoryoku.log", "name": "筋トレ記録", "fold": { "name": "2.7", "code": 10 }, "watch": { "name": "1.8", "code": 9 }, "note": "別のセッションで作成（11/11 時点の版）" }
+  ]
+}
